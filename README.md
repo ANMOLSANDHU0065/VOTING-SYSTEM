@@ -1,6 +1,6 @@
 # 🗳️ Voting Eligibility Checker
 
-## 👋 Hello! I'm Sandhu
+## 👋 Hello! I'm ANMOL Sandhu
 I'm a **BCA 3rd Semester student** passionate about programming 💻 and learning new technologies 🚀.
 
 ---
